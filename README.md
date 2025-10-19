@@ -27,4 +27,4 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Burned Wings)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31mvbokj6o64l3g57xctokerkzby?si=9SNnzN2_TTGZeZ1cAzYLWA)
