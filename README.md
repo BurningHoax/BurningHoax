@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=WARNING:+EXTREME+CODER+DETECTED;APPROACH+WITH+CAUTION;INNOVATION+IN+PROGRESS;SYSTEMS+AT+MAXIMUM+POWER" alt="Ultimate Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=WARNING:DEVELOPER+DETECTED;APPROACH+WITH+CAUTION;INNOVATION+IN+PROGRESS;SYSTEMS+AT+MAXIMUM+POWER" alt="Ultimate Typing Header" />
 </p>
 
 <div align="center">
