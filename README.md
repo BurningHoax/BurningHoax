@@ -27,10 +27,3 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Another Day in Paradise - 2016 Remaster** by **Phil Collins**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD)
-
-<img src="https://i.scdn.co/image/ab67616d0000b273fb2daafa0993f39d87a84385" width="64" alt="Album Cover">
-
-*Last updated: ![Current Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata&format=hh:mm:A&color=red)
-*
