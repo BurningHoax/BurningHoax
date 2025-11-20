@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Love M.D.** by **Tony Joe White**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0ZV9b4nU4FrxETsbk9wNll)
+**Crossroad** by **Calvin Russell**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0Ox96DaSeLbMpyJNSLcPOj)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273caa30e33bc578ddd1bb7bc37" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27312ba2c208636472911711f05" width="64" alt="Album Cover">
 
-*Last updated: 21/11/2025, 4:13:07 am (IST)*
+*Last updated: 21/11/2025, 4:22:29 am (IST)*
