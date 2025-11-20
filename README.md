@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Hey You** by **DOPE LEMON**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4zF4k7exnkDjSW6ik48vpN)
+**Coming Back to Life** by **Pink Floyd**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2738775ad8a2b68f96f454b580a" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273f508f0949710aa33a79cf6b2" width="64" alt="Album Cover">
 
-*Last updated: 21/11/2025, 4:59:00 am (IST)*
+*Last updated: 21/11/2025, 5:16:58 am (IST)*
