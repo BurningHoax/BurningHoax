@@ -32,4 +32,5 @@ _"I don't break systems. I rebuild them better."_
 
 <img src="https://i.scdn.co/image/ab67616d0000b273fb2daafa0993f39d87a84385" width="64" alt="Album Cover">
 
-*Last updated: Thu, 20 Nov 2025 22:13:39 GMT*
+*Last updated: ![Current Time](https://readme-time.vercel.app/api?timezone=Asia/Kolkata&format=hh:mm:A&color=red)
+*
