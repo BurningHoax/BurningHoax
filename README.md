@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nights In White Satin - Single Version / Mono** by **The Moody Blues**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr)
+**Reverie** by **Chris Isaak**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4QEUc42z57SZqQorFe4IVG)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273ec351e05f8bcf97e7999ac64" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2731f9be6ea128af1f16ec185a5" width="64" alt="Album Cover">
 
-*Last updated: Thu, 20 Nov 2025 22:27:48 GMT*
+*Last updated: Thu, 20 Nov 2025 22:30:49 GMT*
