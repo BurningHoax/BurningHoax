@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Us and Them** by **Pink Floyd**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx)
+**Hey You** by **DOPE LEMON**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4zF4k7exnkDjSW6ik48vpN)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2738775ad8a2b68f96f454b580a" width="64" alt="Album Cover">
 
-*Last updated: 21/11/2025, 4:40:44 am (IST)*
+*Last updated: 21/11/2025, 4:59:00 am (IST)*
