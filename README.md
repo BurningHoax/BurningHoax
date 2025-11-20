@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Coming Back to Life** by **Pink Floyd**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji)
+**Profession of Violence - 2009 Remaster** by **UFO**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0vDICKyeBQrTqe1g4BD3FA)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273f508f0949710aa33a79cf6b2" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273f31192676ea88de1ebc2f560" width="64" alt="Album Cover">
 
-*Last updated: 21/11/2025, 5:16:58 am (IST)*
+*Last updated: 21/11/2025, 5:21:57 am (IST)*
