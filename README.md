@@ -26,8 +26,5 @@ _"I don't break systems. I rebuild them better."_
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BurningHoax&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Elite Trophy Case" /> </p><div align="center">
 
 ### 🎧 Currently Listening To
-### 🎧 Currently Listening To
 
 **Not currently playing** 🔇
-
-*Last updated: Wed, 20 Nov 2024 21:46:07 GMT*
