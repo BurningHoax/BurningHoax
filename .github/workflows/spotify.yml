@@ -5,11 +5,16 @@ on:
     - cron: '*/5 * * * *'  # Updates every 5 minutes
   workflow_dispatch:
 
+permissions:
+  contents: write  # This fixes the permission error!
+
 jobs:
   update-spotify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -25,8 +30,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
           git diff --staged --quiet || git commit -m "🎧 Update Spotify status"
           git push
