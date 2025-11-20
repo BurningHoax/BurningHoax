@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Reverie** by **Chris Isaak**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4QEUc42z57SZqQorFe4IVG)
+**Love M.D.** by **Tony Joe White**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0ZV9b4nU4FrxETsbk9wNll)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2731f9be6ea128af1f16ec185a5" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273caa30e33bc578ddd1bb7bc37" width="64" alt="Album Cover">
 
-*Last updated: Thu, 20 Nov 2025 22:30:49 GMT*
+*Last updated: 21/11/2025, 4:12:09 am (IST)*
