@@ -27,9 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Crossroad** by **Calvin Russell**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0Ox96DaSeLbMpyJNSLcPOj)
+**Us and Them** by **Pink Floyd**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27312ba2c208636472911711f05" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="64" alt="Album Cover">
 
-*Last updated: 21/11/2025, 4:22:29 am (IST)*
+*Last updated: 21/11/2025, 4:40:44 am (IST)*
