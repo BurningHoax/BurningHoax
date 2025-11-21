@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Subha Hone Na De** by **Pritam, Mika Singh, Shefali Alvares**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6WediUhXDfm8FR3wlM0r3G)
+**Pink Lips** by **Meet Bros Anjjan, Khushboo Grewal**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2tyITgmOGVz6rqleDokbEN)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273daa89593cc2cde9651665d03" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273467cc511d190809571295e3f" width="64" alt="Album Cover">
 
-*Last updated: 22/11/2025, 1:10:31 am (IST)*
+*Last updated: 22/11/2025, 1:20:29 am (IST)*
