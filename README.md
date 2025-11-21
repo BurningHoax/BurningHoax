@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**We Paid (feat. 42 Dugg)** by **Lil Baby, 42 Dugg**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp)
 
-*Last updated: 22/11/2025, 12:25:31 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8" width="64" alt="Album Cover">
+
+*Last updated: 22/11/2025, 12:45:54 am (IST)*
