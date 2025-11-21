@@ -27,6 +27,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**I Can't Go on Without You** by **KALEO**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd)
 
-*Last updated: 21/11/2025, 8:28:21 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b" width="64" alt="Album Cover">
+
+*Last updated: 21/11/2025, 8:53:17 pm (IST)*
