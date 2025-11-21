@@ -9,7 +9,6 @@ _"I don't break systems. I rebuild them better."_
 
 </div>
 
-## ⚡ **DEATH STAR STATUS** ⚡
 
 <!-- REAL-TIME SYSTEMS DASHBOARD -->
 <p align="center">
