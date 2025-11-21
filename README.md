@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**King Without A Castle** by **Chris Isaak**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2kwMf3KTuVedN03EjVHGxB)
+**Every Breath You Take** by **The Police**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273f6ab763c6a4887b18d3efed4" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" width="64" alt="Album Cover">
 
-*Last updated: 21/11/2025, 9:05:03 pm (IST)*
+*Last updated: 21/11/2025, 9:14:18 pm (IST)*
