@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**We Paid (feat. 42 Dugg)** by **Lil Baby, 42 Dugg**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp)
+**O Gujariya** by **Shefali Alvares, Nikhil D'Souza, Amit Trivedi**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/22EimU5vjrNYV9A3aIGqso)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2736d5222aff82ede55a6f2f813" width="64" alt="Album Cover">
 
-*Last updated: 22/11/2025, 12:45:54 am (IST)*
+*Last updated: 22/11/2025, 12:59:12 am (IST)*
