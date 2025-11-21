@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**O Gujariya** by **Shefali Alvares, Nikhil D'Souza, Amit Trivedi**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/22EimU5vjrNYV9A3aIGqso)
+**Subha Hone Na De** by **Pritam, Mika Singh, Shefali Alvares**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6WediUhXDfm8FR3wlM0r3G)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2736d5222aff82ede55a6f2f813" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273daa89593cc2cde9651665d03" width="64" alt="Album Cover">
 
-*Last updated: 22/11/2025, 12:59:12 am (IST)*
+*Last updated: 22/11/2025, 1:10:31 am (IST)*
