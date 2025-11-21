@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Every Breath You Take** by **The Police**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" width="64" alt="Album Cover">
-
-*Last updated: 21/11/2025, 9:14:18 pm (IST)*
+*Last updated: 21/11/2025, 9:24:19 pm (IST)*
