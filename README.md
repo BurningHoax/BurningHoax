@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Idea 22** by **Gibran Alcocer**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1FCsK0oKWCtDOYRPYSrYgO)
 
-*Last updated: 23/11/2025, 4:23:46 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273ea8460e3b95df64cdd3c9692" width="64" alt="Album Cover">
+
+*Last updated: 23/11/2025, 4:43:05 am (IST)*
