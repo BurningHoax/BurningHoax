@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Crystal Light - 2007 Remaster** by **UFO**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0lwZD32VPco1d0B7I4ejtQ)
 
-*Last updated: 26/11/2025, 5:55:15 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b2731aebacc79b33347a31c79afe" width="64" alt="Album Cover">
+
+*Last updated: 26/11/2025, 6:40:21 pm (IST)*
