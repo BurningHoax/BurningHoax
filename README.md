@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Decadence** by **Disturbed**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0jY829pCMnstlNtaE72vSB)
+**Enter Sandman - Remastered 2021** by **Metallica**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273bbdafec608fc5329ec2ad831" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34" width="64" alt="Album Cover">
 
-*Last updated: 30/11/2025, 4:15:31 am (IST)*
+*Last updated: 30/11/2025, 4:25:31 am (IST)*
