@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Decadence** by **Disturbed**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0jY829pCMnstlNtaE72vSB)
 
-*Last updated: 30/11/2025, 4:04:26 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273bbdafec608fc5329ec2ad831" width="64" alt="Album Cover">
+
+*Last updated: 30/11/2025, 4:15:31 am (IST)*
