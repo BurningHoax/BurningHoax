@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Die For You** by **Joji**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/00WLowvlN5cjkYpQV6pjo4)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273cdd1a8a427b3f81f4f4f4f7d" width="64" alt="Album Cover">
-
-*Last updated: 1/12/2025, 11:27:30 pm (IST)*
+*Last updated: 2/12/2025, 12:08:48 am (IST)*
