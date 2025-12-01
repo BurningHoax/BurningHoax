@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**One Of The Girls (with JENNIE, Lily Rose Depp)** by **The Weeknd, JENNIE, Lily-Rose Depp**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW)
 
-*Last updated: 1/12/2025, 10:53:23 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262" width="64" alt="Album Cover">
+
+*Last updated: 1/12/2025, 11:16:16 pm (IST)*
