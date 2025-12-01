@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**One More Light (Originally Performed by Linkin Park) - Instrumental** by **Covered Up**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0OgCb5E9W5csB0pBtn541X)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273574af7ef8c47d0cde047627c" width="64" alt="Album Cover">
-
-*Last updated: 1/12/2025, 6:28:17 pm (IST)*
+*Last updated: 1/12/2025, 7:09:30 pm (IST)*
