@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**MGSV Quiet Theme** by **Lucas King**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6OdF56SKwYzLpG51YHyYac)
+**interstellar. - arabic version** by **pandora., YAD Oud, chillwithme, cødy**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/32LFgI4oxvuP5Cfi3LloTb)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27387c5421905b6920c554ecd85" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273a123123f9d30521a44aa6c59" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 4:30:05 pm (IST)*
+*Last updated: 1/12/2025, 4:55:52 pm (IST)*
