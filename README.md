@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**September Instrumental - Sped Up** by **cl4p**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5dwVVwLX53xmqPGiMUvmQx)
+**Fine line - Instrumental** by **Kapa Boy**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2DQPiyq5H4evGiR1ta6BT4)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2734bf354bc9000ef90461f4419" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2732457f6c90c369291953d9164" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 5:09:18 pm (IST)*
+*Last updated: 1/12/2025, 5:19:18 pm (IST)*
