@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Fine line - Instrumental** by **Kapa Boy**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2DQPiyq5H4evGiR1ta6BT4)
+**On the Nature of Daylight** by **Max Richter, Louisa Fuller, Natalia Bonner, John Metcalfe, Philip Sheppard, Chris Worsey**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2732457f6c90c369291953d9164" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273e2821b1458ab996fdf2c47ad" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 5:19:18 pm (IST)*
+*Last updated: 1/12/2025, 5:28:44 pm (IST)*
