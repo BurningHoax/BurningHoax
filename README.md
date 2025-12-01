@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**interstellar. - arabic version** by **pandora., YAD Oud, chillwithme, cødy**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/32LFgI4oxvuP5Cfi3LloTb)
+**September Instrumental - Sped Up** by **cl4p**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5dwVVwLX53xmqPGiMUvmQx)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273a123123f9d30521a44aa6c59" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2734bf354bc9000ef90461f4419" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 4:55:52 pm (IST)*
+*Last updated: 1/12/2025, 5:09:18 pm (IST)*
