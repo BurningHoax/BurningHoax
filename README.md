@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Always Somewhere (2015 - Remaster)** by **Scorpions**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6RG9WyeGTkM1xwI2gzUhbH)
+**Girl on the Moon** by **Foreigner**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0WapisGaQAkdtuGEJjWSC2)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273f35497447472b2434fd1d2ca" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 11:17:53 am (IST)*
+*Last updated: 1/12/2025, 11:27:27 am (IST)*
