@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**One Of The Girls (with JENNIE, Lily Rose Depp)** by **The Weeknd, JENNIE, Lily-Rose Depp**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW)
+**Die For You** by **Joji**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/00WLowvlN5cjkYpQV6pjo4)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273cdd1a8a427b3f81f4f4f4f7d" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 11:16:16 pm (IST)*
+*Last updated: 1/12/2025, 11:27:30 pm (IST)*
