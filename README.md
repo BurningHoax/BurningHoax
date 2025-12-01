@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Wearing the Inside Out** by **Pink Floyd**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2GoeLsETNdx8lRoWW2aeNj)
+**Always Somewhere (2015 - Remaster)** by **Scorpions**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6RG9WyeGTkM1xwI2gzUhbH)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273f508f0949710aa33a79cf6b2" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273f35497447472b2434fd1d2ca" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 10:54:36 am (IST)*
+*Last updated: 1/12/2025, 11:17:53 am (IST)*
