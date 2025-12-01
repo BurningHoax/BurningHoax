@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Wearing the Inside Out** by **Pink Floyd**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2GoeLsETNdx8lRoWW2aeNj)
 
-*Last updated: 1/12/2025, 10:24:31 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273f508f0949710aa33a79cf6b2" width="64" alt="Album Cover">
+
+*Last updated: 1/12/2025, 10:54:36 am (IST)*
