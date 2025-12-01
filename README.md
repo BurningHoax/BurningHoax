@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Max Payne Theme** by **Ben Morfitt (SquidPhysics)**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6m7O761gUXb1VV5vto11Ef)
 
-*Last updated: 1/12/2025, 3:59:20 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273ba2f411fef27ec4ee784d866" width="64" alt="Album Cover">
+
+*Last updated: 1/12/2025, 4:20:49 pm (IST)*
