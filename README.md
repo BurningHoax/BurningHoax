@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Max Payne Theme** by **Ben Morfitt (SquidPhysics)**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6m7O761gUXb1VV5vto11Ef)
+**MGSV Quiet Theme** by **Lucas King**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6OdF56SKwYzLpG51YHyYac)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273ba2f411fef27ec4ee784d866" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27387c5421905b6920c554ecd85" width="64" alt="Album Cover">
 
-*Last updated: 1/12/2025, 4:20:49 pm (IST)*
+*Last updated: 1/12/2025, 4:30:05 pm (IST)*
