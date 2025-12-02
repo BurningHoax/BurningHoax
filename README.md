@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**The Reason** by **Hoobastank**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY)
 
-*Last updated: 2/12/2025, 10:29:08 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b27394f8b5f85bad2c8affe6cc7d" width="64" alt="Album Cover">
+
+*Last updated: 2/12/2025, 11:00:18 pm (IST)*
