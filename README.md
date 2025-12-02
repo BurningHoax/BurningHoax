@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**One** by **Metallica**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w)
+**Six Days - Remix** by **DJ Shadow, Mos Def**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6ifNuuYjiS5NdMabN4Jvrs)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273201b70d118d7b23f19040f11" width="64" alt="Album Cover">
 
-*Last updated: 3/12/2025, 12:57:20 am (IST)*
+*Last updated: 3/12/2025, 1:10:53 am (IST)*
