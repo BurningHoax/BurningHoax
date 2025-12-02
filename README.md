@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Otherside** by **Red Hot Chili Peppers**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P)
+**In the End** by **Linkin Park**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="64" alt="Album Cover">
 
-*Last updated: 2/12/2025, 11:19:21 pm (IST)*
+*Last updated: 2/12/2025, 11:29:18 pm (IST)*
