@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Six Days - Remix** by **DJ Shadow, Mos Def**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6ifNuuYjiS5NdMabN4Jvrs)
+**Snow (Hey Oh)** by **Red Hot Chili Peppers**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273201b70d118d7b23f19040f11" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="64" alt="Album Cover">
 
-*Last updated: 3/12/2025, 1:10:53 am (IST)*
+*Last updated: 3/12/2025, 1:21:02 am (IST)*
