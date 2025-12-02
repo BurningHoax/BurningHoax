@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**News** by **Dire Straits**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4s6p0rVzSaWqaJRsp0HBDI)
 
-*Last updated: 3/12/2025, 2:28:47 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947" width="64" alt="Album Cover">
+
+*Last updated: 3/12/2025, 2:56:12 am (IST)*
