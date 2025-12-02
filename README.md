@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**The Reason** by **Hoobastank**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY)
+**Otherside** by **Red Hot Chili Peppers**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27394f8b5f85bad2c8affe6cc7d" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="64" alt="Album Cover">
 
-*Last updated: 2/12/2025, 11:00:18 pm (IST)*
+*Last updated: 2/12/2025, 11:19:21 pm (IST)*
