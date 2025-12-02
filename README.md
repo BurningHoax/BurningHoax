@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Weight of Love** by **The Black Keys**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC)
+**Feels Like We Only Go Backwards** by **Tame Impala**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2731af8fb0d8859055d35d2290f" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193" width="64" alt="Album Cover">
 
-*Last updated: 3/12/2025, 3:08:41 am (IST)*
+*Last updated: 3/12/2025, 3:18:34 am (IST)*
