@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Wake Me up When September Ends** by **Green Day**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm)
+**Entombed** by **Deftones**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69" width="64" alt="Album Cover">
 
-*Last updated: 3/12/2025, 12:14:17 am (IST)*
+*Last updated: 3/12/2025, 12:31:40 am (IST)*
