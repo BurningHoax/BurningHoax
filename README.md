@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Sing For The Moment** by **Eminem**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="64" alt="Album Cover">
-
-*Last updated: 3/12/2025, 2:04:07 am (IST)*
+*Last updated: 3/12/2025, 2:19:13 am (IST)*
