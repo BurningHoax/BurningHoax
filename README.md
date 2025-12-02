@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Snow (Hey Oh)** by **Red Hot Chili Peppers**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO)
+**Till I Collapse** by **Eminem, Nate Dogg**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" width="64" alt="Album Cover">
 
-*Last updated: 3/12/2025, 1:21:02 am (IST)*
+*Last updated: 3/12/2025, 1:31:04 am (IST)*
