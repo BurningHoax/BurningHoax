@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Come As You Are** by **Nirvana**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0)
+**To Me** by **Alina Baraz**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Bw4VPo55fdXqVC9wYpwJA)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273f9ec1b0c99417edec92b20ea" width="64" alt="Album Cover">
 
-*Last updated: 6/12/2025, 4:08:24 am (IST)*
+*Last updated: 6/12/2025, 4:18:14 am (IST)*
