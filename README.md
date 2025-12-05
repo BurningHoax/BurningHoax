@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Your face** by **Wisp**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)
+**Take What You Want (feat. Ozzy Osbourne & Travis Scott)** by **Post Malone, Ozzy Osbourne, Travis Scott**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" width="64" alt="Album Cover">
 
-*Last updated: 6/12/2025, 5:05:07 am (IST)*
+*Last updated: 6/12/2025, 5:15:10 am (IST)*
