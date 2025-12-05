@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**V Has Come To** by **Ludvig Forssell**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0NwSa12C0Qw0oEg29PcpQ3)
+**Changes - 2009 Remaster** by **Black Sabbath**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273d4c887105fd19e502001b13b" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2730a774ec695cc0a967250b966" width="64" alt="Album Cover">
 
-*Last updated: 6/12/2025, 4:27:47 am (IST)*
+*Last updated: 6/12/2025, 4:52:09 am (IST)*
