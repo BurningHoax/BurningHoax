@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Come As You Are** by **Nirvana**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0)
 
-*Last updated: 6/12/2025, 3:47:32 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" width="64" alt="Album Cover">
+
+*Last updated: 6/12/2025, 4:08:24 am (IST)*
