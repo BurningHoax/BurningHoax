@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Take What You Want (feat. Ozzy Osbourne & Travis Scott)** by **Post Malone, Ozzy Osbourne, Travis Scott**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw)
+**Something In The Way** by **Nirvana**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" width="64" alt="Album Cover">
 
-*Last updated: 6/12/2025, 5:15:10 am (IST)*
+*Last updated: 6/12/2025, 5:24:29 am (IST)*
