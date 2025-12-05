@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**To Me** by **Alina Baraz**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Bw4VPo55fdXqVC9wYpwJA)
+**V Has Come To** by **Ludvig Forssell**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0NwSa12C0Qw0oEg29PcpQ3)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273f9ec1b0c99417edec92b20ea" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273d4c887105fd19e502001b13b" width="64" alt="Album Cover">
 
-*Last updated: 6/12/2025, 4:18:14 am (IST)*
+*Last updated: 6/12/2025, 4:27:47 am (IST)*
