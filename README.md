@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Changes - 2009 Remaster** by **Black Sabbath**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL)
+**Your face** by **Wisp**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2730a774ec695cc0a967250b966" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" width="64" alt="Album Cover">
 
-*Last updated: 6/12/2025, 4:52:09 am (IST)*
+*Last updated: 6/12/2025, 5:05:07 am (IST)*
