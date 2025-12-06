@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Something In The Way** by **Nirvana**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" width="64" alt="Album Cover">
-
-*Last updated: 6/12/2025, 5:24:29 am (IST)*
+*Last updated: 6/12/2025, 6:43:22 am (IST)*
