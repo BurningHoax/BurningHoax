@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**You And Your Friend** by **Dire Straits**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6JjDGQoxsbVBlzRjT6eFlg)
+**Ordinary World** by **Duran Duran**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 2:08:38 am (IST)*
+*Last updated: 8/12/2025, 2:18:27 am (IST)*
