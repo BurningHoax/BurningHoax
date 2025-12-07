@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Ordinary World** by **Duran Duran**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr)
+**Nothing's Changed** by **Chris Isaak**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0m61ObUuEgl1PCndJF2fpz)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273b66c23534dd78ff7d3da83b8" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 2:18:27 am (IST)*
+*Last updated: 8/12/2025, 2:27:35 am (IST)*
