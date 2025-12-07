@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Waiting for a Girl like You** by **Foreigner**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU)
+**Stairway to Heaven - Remaster** by **Led Zeppelin**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 4:10:30 am (IST)*
+*Last updated: 8/12/2025, 4:20:23 am (IST)*
