@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Black Flowers** by **Chris Isaak**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/69BqGs0XtVXGpEbVNsCGMS)
+**Hotel California - 2013 Remaster** by **Eagles**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27361efcc767159cac6a4e680d3" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 3:29:46 am (IST)*
+*Last updated: 8/12/2025, 3:56:01 am (IST)*
