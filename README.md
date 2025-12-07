@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Who We Want to Be** by **Tom Day**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7eBqNSGi5jOBQZDiecXJas)
+**Cry** by **Cigarettes After Sex**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2735286f0445066216cea5921a6" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273fd275af89cec73d6287f9cbf" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 4:54:45 am (IST)*
+*Last updated: 8/12/2025, 5:07:12 am (IST)*
