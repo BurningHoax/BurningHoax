@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Caribbean Blue - 2009 Remaster** by **Enya**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk)
+**Is This Love - 2018 Remaster** by **Whitesnake**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3pHpV3pa96s4vuBP7sQq0V)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2733184c671068d02838d47b277" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273facf92d793609aa3bc5cc4e7" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 1:31:01 am (IST)*
+*Last updated: 8/12/2025, 1:53:08 am (IST)*
