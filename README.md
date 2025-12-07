@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Kiss Me Like A Stranger** by **Chris Isaak**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6p5Ax1ErDXt2ZmLFXkBSi7)
+**Who We Want to Be** by **Tom Day**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7eBqNSGi5jOBQZDiecXJas)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2731f9be6ea128af1f16ec185a5" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2735286f0445066216cea5921a6" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 4:29:52 am (IST)*
+*Last updated: 8/12/2025, 4:54:45 am (IST)*
