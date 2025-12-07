@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Caribbean Blue - 2009 Remaster** by **Enya**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk)
 
-*Last updated: 8/12/2025, 1:17:40 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b2733184c671068d02838d47b277" width="64" alt="Album Cover">
+
+*Last updated: 8/12/2025, 1:31:01 am (IST)*
