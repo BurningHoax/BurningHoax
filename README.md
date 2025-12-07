@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Rebel Yell** by **Billy Idol**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc)
+**Black Flowers** by **Chris Isaak**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/69BqGs0XtVXGpEbVNsCGMS)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b27361efcc767159cac6a4e680d3" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 3:19:51 am (IST)*
+*Last updated: 8/12/2025, 3:29:46 am (IST)*
