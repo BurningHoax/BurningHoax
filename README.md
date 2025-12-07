@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**House of the Rising Sun** by **The Animals**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l)
+**Riding the Blues** by **Snowy White, The White Flames**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6r8w9NhDqcMY3l8SicsaDt)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273015c484a7aca592df1a77828" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273b9bde76970c39851d81064b7" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 2:49:23 am (IST)*
+*Last updated: 8/12/2025, 3:00:32 am (IST)*
