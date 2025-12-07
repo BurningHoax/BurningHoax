@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Cry** by **Cigarettes After Sex**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw)
+**afterdark.** by **pandora., chillwithme, cødy**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273fd275af89cec73d6287f9cbf" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2735e28dfac8b14dcd752d2256f" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 5:07:12 am (IST)*
+*Last updated: 8/12/2025, 5:17:01 am (IST)*
