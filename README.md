@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Riding the Blues** by **Snowy White, The White Flames**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6r8w9NhDqcMY3l8SicsaDt)
+**Can't Do A Thing** by **Chris Isaak**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/34WePpH1av2xmrlU2xUqmQ)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273b9bde76970c39851d81064b7" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2736d9eef7e0e2e106ac7b27c3e" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 3:00:32 am (IST)*
+*Last updated: 8/12/2025, 3:10:38 am (IST)*
