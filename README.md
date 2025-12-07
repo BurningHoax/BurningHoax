@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Can't Do A Thing** by **Chris Isaak**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/34WePpH1av2xmrlU2xUqmQ)
+**Rebel Yell** by **Billy Idol**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2736d9eef7e0e2e106ac7b27c3e" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 3:10:38 am (IST)*
+*Last updated: 8/12/2025, 3:19:51 am (IST)*
