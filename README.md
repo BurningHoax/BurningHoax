@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Is This Love - 2018 Remaster** by **Whitesnake**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3pHpV3pa96s4vuBP7sQq0V)
+**You And Your Friend** by **Dire Straits**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6JjDGQoxsbVBlzRjT6eFlg)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273facf92d793609aa3bc5cc4e7" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 1:53:08 am (IST)*
+*Last updated: 8/12/2025, 2:08:38 am (IST)*
