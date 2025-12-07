@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Stairway to Heaven - Remaster** by **Led Zeppelin**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)
+**Kiss Me Like A Stranger** by **Chris Isaak**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6p5Ax1ErDXt2ZmLFXkBSi7)
 
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2731f9be6ea128af1f16ec185a5" width="64" alt="Album Cover">
 
-*Last updated: 8/12/2025, 4:20:23 am (IST)*
+*Last updated: 8/12/2025, 4:29:52 am (IST)*
