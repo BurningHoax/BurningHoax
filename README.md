@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**What Are You Going to Do When You Are Not Saving the World?** by **Hans Zimmer**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6PHMAqyTi2zjs6aXneg0EC)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273f5fa25f25e06af71a7e061f6" width="64" alt="Album Cover">
-
-*Last updated: 8/12/2025, 5:26:47 am (IST)*
+*Last updated: 8/12/2025, 7:18:15 am (IST)*
