@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Throne** by **Bring Me The Horizon**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H)
+**Wearing the Inside Out** by **Pink Floyd**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2GoeLsETNdx8lRoWW2aeNj)
 
-<img src="https://i.scdn.co/image/ab67616d0000b27390b88187a9831d91f2438927" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273f508f0949710aa33a79cf6b2" width="64" alt="Album Cover">
 
-*Last updated: 9/12/2025, 6:56:20 pm (IST)*
+*Last updated: 9/12/2025, 7:22:48 pm (IST)*
