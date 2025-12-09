@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**From the Inside** by **Linkin Park**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ)
+**Sonne** by **Rammstein**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2738b2c42026277efc3e058855b" width="64" alt="Album Cover">
 
-*Last updated: 9/12/2025, 5:05:43 pm (IST)*
+*Last updated: 9/12/2025, 5:16:27 pm (IST)*
