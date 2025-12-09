@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**From the Inside** by **Linkin Park**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ)
 
-*Last updated: 9/12/2025, 4:50:00 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" width="64" alt="Album Cover">
+
+*Last updated: 9/12/2025, 5:05:43 pm (IST)*
