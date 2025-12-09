@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Iron Hand** by **Dire Straits**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6vTX4Fc8Zp2YWM3hHUQviF)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" width="64" alt="Album Cover">
-
-*Last updated: 9/12/2025, 7:44:17 pm (IST)*
+*Last updated: 9/12/2025, 8:12:44 pm (IST)*
