@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Runaway** by **Del Shannon**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t)
 
-*Last updated: 11/12/2025, 11:29:35 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273f1fdd06fe4e73052f3a5a26c" width="64" alt="Album Cover">
+
+*Last updated: 11/12/2025, 12:17:02 pm (IST)*
