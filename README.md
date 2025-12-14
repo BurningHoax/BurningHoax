@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Goodbye Blue Sky** by **Pink Floyd**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2)
 
-*Last updated: 15/12/2025, 12:47:22 am (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" width="64" alt="Album Cover">
+
+*Last updated: 15/12/2025, 12:59:16 am (IST)*
