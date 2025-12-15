@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**I Hold You** by **CLANN**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6hD9gG2Q4fwwiPX3E2un3I)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273225b5adfdfd80255b2d83efc" width="64" alt="Album Cover">
-
-*Last updated: 15/12/2025, 8:06:03 pm (IST)*
+*Last updated: 15/12/2025, 8:59:22 pm (IST)*
