@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Turn The Lights Off (feat. Jon) - Radio Edit** by **Kato, Jon**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273177824960dfbc46b1a4817be" width="64" alt="Album Cover">
-
-*Last updated: 15/12/2025, 4:24:38 pm (IST)*
+*Last updated: 15/12/2025, 4:46:23 pm (IST)*
