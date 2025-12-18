@@ -26,9 +26,6 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Javeda Zindagi-Tose Naina Lage** by **Kshitij Tarey, Shilpa Rao**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/04FnSzoogJD1iQbghug23K)
+**Nishant is either sleeping or AFK 😴**
 
-<img src="https://i.scdn.co/image/ab67616d0000b273018cf5516fb005a06193b565" width="64" alt="Album Cover">
-
-*Last updated: 18/12/2025, 5:21:22 pm (IST)*
+*Last updated: 18/12/2025, 5:48:41 pm (IST)*
