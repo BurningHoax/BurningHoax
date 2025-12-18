@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Hale Dil** by **Harshit Saxena, Sayeed Quadri**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6GQK4G5o60E8YA18DGpAzv)
+**Javeda Zindagi-Tose Naina Lage** by **Kshitij Tarey, Shilpa Rao**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/04FnSzoogJD1iQbghug23K)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2732432edc97b465e6db54d356b" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273018cf5516fb005a06193b565" width="64" alt="Album Cover">
 
-*Last updated: 18/12/2025, 5:11:12 pm (IST)*
+*Last updated: 18/12/2025, 5:21:22 pm (IST)*
