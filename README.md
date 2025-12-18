@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Hale Dil** by **Harshit Saxena, Sayeed Quadri**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6GQK4G5o60E8YA18DGpAzv)
 
-*Last updated: 18/12/2025, 4:56:17 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b2732432edc97b465e6db54d356b" width="64" alt="Album Cover">
+
+*Last updated: 18/12/2025, 5:11:12 pm (IST)*
