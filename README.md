@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Missing Pieces** by **Flawed Mangoes**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4Y7kSEgDsV4U4iPfbPqJX5)
 
-*Last updated: 18/12/2025, 1:23:59 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b2737e69db58ddd04401750fc73e" width="64" alt="Album Cover">
+
+*Last updated: 18/12/2025, 1:52:24 pm (IST)*
