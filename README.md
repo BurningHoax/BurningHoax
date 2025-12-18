@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Missing Pieces** by **Flawed Mangoes**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4Y7kSEgDsV4U4iPfbPqJX5)
+**September - Instrumental** by **Goomp**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6mGNN8itiFgSWQl1ShlqAT)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2737e69db58ddd04401750fc73e" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b2739ac6d468eb41c987888ea03d" width="64" alt="Album Cover">
 
-*Last updated: 18/12/2025, 1:52:24 pm (IST)*
+*Last updated: 18/12/2025, 2:19:24 pm (IST)*
