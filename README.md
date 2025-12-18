@@ -26,9 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**September - Instrumental** by **Goomp**  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6mGNN8itiFgSWQl1ShlqAT)
+**green to blue - slowed + reverbed** by **daniel.mp3**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ)
 
-<img src="https://i.scdn.co/image/ab67616d0000b2739ac6d468eb41c987888ea03d" width="64" alt="Album Cover">
+<img src="https://i.scdn.co/image/ab67616d0000b273fd57d2391c54f56d523764d6" width="64" alt="Album Cover">
 
-*Last updated: 18/12/2025, 2:19:24 pm (IST)*
+*Last updated: 18/12/2025, 2:44:44 pm (IST)*
