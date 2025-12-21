@@ -26,6 +26,9 @@ _"I don't break systems. I rebuild them better."_
 
 ### 🎧 Currently Listening To
 
-**Nishant is either sleeping or AFK 😴**
+**Weight of Love** by **The Black Keys**  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC)
 
-*Last updated: 21/12/2025, 6:17:54 pm (IST)*
+<img src="https://i.scdn.co/image/ab67616d0000b2731af8fb0d8859055d35d2290f" width="64" alt="Album Cover">
+
+*Last updated: 21/12/2025, 6:48:44 pm (IST)*
