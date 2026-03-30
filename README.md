@@ -13,8 +13,6 @@ _"I don't break systems. I rebuild them better."_
 <!-- REAL-TIME SYSTEMS DASHBOARD -->
 <p align="center">
   <a href="https://github.com/BurningHoax">
-    <!-- PULSING RED STATS -->
-    <img src="https://github-readme-stats.vercel.app/api?username=BurningHoax&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF4444&text_color=FFFFFF&border_color=FF0000&include_all_commits=true&count_private=true" height="165"/>
     <!-- BLOOD-RED STREAK -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurningHoax&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="165"/>
   </a>
