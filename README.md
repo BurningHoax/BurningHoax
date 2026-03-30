@@ -19,13 +19,3 @@ _"I don't break systems. I rebuild them better."_
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurningHoax&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="165"/>
   </a>
 </p>
-
-💥 TACTICAL METRICS
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BurningHoax&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Elite Trophy Case" /> </p><div align="center">
-
-### 🎧 Currently Listening To
-
-**Nishant is either sleeping or AFK 😴**
-
-*Last updated: 23/12/2025, 6:49:58 am (IST)*
