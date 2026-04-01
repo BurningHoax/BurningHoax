@@ -17,3 +17,6 @@ _"I don't break systems. I rebuild them better."_
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurningHoax&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="165"/>
   </a>
 </p>
+
+>[!IMPORTANT]
+>We are born to carry on. Until we can't anymore. <img src="./dinosaur-svgrepo-com.svg" width="100" valign="middle">
