@@ -19,4 +19,5 @@ _"I don't break systems. I rebuild them better."_
 </p>
 
 >[!IMPORTANT]
->We are born to carry on. Until we can't anymore. <img src="./dinosaur-svgrepo-com.svg" width="100" valign="middle">
+>We are born to carry on. Until we can't anymore.
+<img src="./dinosaur-svgrepo-com.svg" width="100" valign="middle">
