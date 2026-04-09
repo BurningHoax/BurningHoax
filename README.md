@@ -20,3 +20,5 @@ _"I don't break systems. I rebuild them better."_
 
 >[!IMPORTANT]
 >We are born to carry on. Until we can't anymore. <img src="./dinosaur-svgrepo-com.svg" width="100" valign="middle">
+
+[LinkedIN](www.linkedin.com/in/burninghoax) | [Leetcode](https://leetcode.com/u/BurnedWings/) | [Mail Me](mailto:nishantnk476@gmail.com)
